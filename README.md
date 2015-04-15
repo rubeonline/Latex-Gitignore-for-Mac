@@ -32,3 +32,4 @@ output/
 *.out
 *.synctex.gz
 # Latex-gitignore-for-Mac
+# Latex-gitignore-for-Mac
