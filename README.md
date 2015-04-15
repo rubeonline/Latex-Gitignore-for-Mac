@@ -31,5 +31,3 @@ output/
 *.mtc1
 *.out
 *.synctex.gz
-# Latex-gitignore-for-Mac
-# Latex-gitignore-for-Mac
