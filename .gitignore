@@ -1,8 +1,7 @@
-# Latex-Gitignore-on-Mac
 *.synctex.gz
 .project
 output/
-**yourOutputFile.pdf**
+dokumentation.pdf
 
 *.swp
 
@@ -31,4 +30,3 @@ output/
 *.mtc1
 *.out
 *.synctex.gz
-# Latex-gitignore-for-Mac
